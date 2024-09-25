@@ -148,6 +148,14 @@ img{
     color: #ffffff;
     padding: 20px 40px;
 }
+@media only screen and (min-width: 1440px) and (min-height: 1024px){
+    .center{
+        justify-content: space-between;
+    }
+    .pricelist h3 {
+        font-size: calc(1.6vw + 1px) !important;
+      }
+}
 .center h1{
     font-size: calc(3.2vw + 20px);
     font-weight: 400;
