@@ -103,7 +103,6 @@ img{
 
 .pricelist {
     display: flex;
-    height: 100%;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -113,7 +112,7 @@ img{
     margin: 0;
     text-align: center;
     font-size: calc(1vw + 3px);
-    width: 48%;
+   
 }
 
 .center{
