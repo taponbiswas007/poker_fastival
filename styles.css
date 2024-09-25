@@ -156,6 +156,29 @@ img{
         font-size: calc(1.6vw + 1px) !important;
       }
 }
+@media only screen and (max-width: 1350px) and (max-height: 616px) {
+    .center {
+        justify-content: space-between;
+    }
+    /* .pricelist h3 {
+        font-size: calc(1.6vw + 1px) !important;
+    } */
+    .content-box{
+        border-radius: 11px;
+         padding: 7px 10px;
+    }
+    .content-box h1 {
+        font-size: calc(1.2vw + 13px) !important;
+    }
+    .count_down_area {
+        background: #08290A;
+        border-radius: 10px !important;
+        width: 100%;
+        font-size: calc(3vw + 36px) !important;
+       
+      }
+}
+
 .center h1{
     font-size: calc(3.2vw + 20px);
     font-weight: 400;
