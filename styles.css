@@ -176,7 +176,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: calc(5vw + 80px);
+    font-size: calc(4vw + 60px);
     font-weight: 600;
 }
 
