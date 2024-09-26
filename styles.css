@@ -7,13 +7,14 @@
 }
 body{
     font-family: "Inter", sans-serif;
-
+    background-color: #630D0E;
+   background-size: cover;
 }
 img{
     width: 100%;
 }
 .full-wrapper{
-    background-color: #630D0E;
+  
     width: 100%;
     height: 100vh;
     background-size: cover;
