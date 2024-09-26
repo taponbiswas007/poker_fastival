@@ -178,6 +178,14 @@ img{
        
       }
 }
+@media only screen and (min-width: 1348px) and (max-width: 1441px) and (min-height: 605px) and (max-height: 615px) {
+    
+   
+    .content-box h1 {
+        font-size: calc(1.7vw + -3px) !important;
+    }
+   
+}
 
 .center h1{
     font-size: calc(3.2vw + 20px);
