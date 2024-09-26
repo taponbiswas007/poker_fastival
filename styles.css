@@ -79,7 +79,7 @@ img{
   
 }
 .content-box h1{
-    font-size: calc(1.6667vw + 20px);
+    font-size: calc(1.6667vw + 16px);
     line-height: 1.2;
     text-align: center;
     font-weight: bold;
